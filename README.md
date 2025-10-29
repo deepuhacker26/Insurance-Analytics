@@ -8,9 +8,9 @@ This project presents an interactive Power BI dashboard for analyzing insurance 
 - Visualize sales funnel by revenue stages.
 - Identify top open opportunities for business growth.
 ## KPI"S Performances
-1-No of Invoice by Accnt Exec
-2-Yearly Meeting Count
-3 Cross Sell,New,Renewal-(Target, Achive,new)
+1. No of Invoice by Accnt Exec
+2. Yearly Meeting Count
+3. Cross Sell,New,Renewal-(Target, Achive,new)
 4. Stage Funnel by Revenue
 5. No of meeting By Account Exe
 6-Top Open Opportunity
