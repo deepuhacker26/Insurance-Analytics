@@ -13,7 +13,7 @@ This project presents an interactive Power BI dashboard for analyzing insurance 
 3. Cross Sell,New,Renewal-(Target, Achive,new)
 4. Stage Funnel by Revenue
 5. No of meeting By Account Exe
-6-Top Open Opportunity
+6. Top Open Opportunity
 ## Dashboard
 ### Excel
   ![Excel](https://github.com/deepuhacker26/Insurance-Analytics/blob/main/Screenshot%202025-09-26%20122112.png)
